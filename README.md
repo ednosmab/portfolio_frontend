@@ -12,6 +12,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Edson Garcia
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/edson-garcia-14138a34/
