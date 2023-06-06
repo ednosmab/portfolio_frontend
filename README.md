@@ -10,8 +10,14 @@
 
 * Flex-box
 
+* Figma
+
+* vercel.com
+
 ## Feito por:
 
 ### Edson Garcia
 
 ### Linkedin: https://www.linkedin.com/in/edson-garcia-14138a34/
+
+## Link para acessar o projeto no vercel.com: https://edsonportfoliofrontend.vercel.app/ 
