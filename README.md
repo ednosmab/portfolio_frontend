@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/37445442/243818778-46ee78d4-942a-43b3-97cc-34cb35960610.png)
+![Inicial (1)](https://github.com/ednosmab/portfolio_frontend/assets/37445442/01fadd7c-2cd5-4ab1-9d6f-b6f030cb54fa)
 
 ## Ferramentas utilizadas:
 
